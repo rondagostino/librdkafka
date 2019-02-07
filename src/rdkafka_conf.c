@@ -36,6 +36,7 @@
 #include "rdkafka_int.h"
 #include "rdkafka_feature.h"
 #include "rdkafka_interceptor.h"
+#include "rdkafka_sasl_oauthbearer.h"
 #if WITH_PLUGINS
 #include "rdkafka_plugin.h"
 #endif
